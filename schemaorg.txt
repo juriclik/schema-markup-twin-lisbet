@@ -1,0 +1,95 @@
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": ["LegalService", "LocalBusiness"],
+      "name": "Twin Lisbet Avocats - Fiscaliste et Affaires",
+      "description": "Twin Lisbet, cabinet d'avocats à Montréal, se concentre en droit fiscal, successoral, droit commercial et corporatif. Offrant des services tels que l'incorporation, la réorganisation, création de fiducies, les conventions d'actionnaires, les avis d'opposition devant Revenu Québec et le dépôt de marques de commerce.",
+      "image": "https://www.juriclik.com/repertoire/avocats/twin-lisbet/amal-sebti.jpg",
+      "@id": "https://www.twinlisbet.com",
+      "url": "https://www.twinlisbet.com",
+      "telephone": "+15149936920",
+      "priceRange": "$$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "79 Rue de Brésoles",
+        "addressLocality": "Montréal",
+        "addressRegion": "QC",
+        "postalCode": "H2Y 1V7",
+        "addressCountry": "CA"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.50884,
+        "longitude": -73.58781
+      },
+      "openingHoursSpecification": [{
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "07:30",
+        "closes": "23:00"
+      }],
+      "sameAs": [
+        "https://www.linkedin.com/in/amal-sebti1/"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services Juridiques",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit fiscal",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Planification fiscale"
+              },
+              {
+                "@type": "Offer",
+                "name": "Litige fiscal"
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit successoral",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Planification successorale"
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit commercial et corporatif",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "name": "Incorporation"
+              },
+              {
+                "@type": "Offer",
+                "name": "Convention entre actionnaires"
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Droit immobilier"
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Marques de commerce"
+          }
+        ]
+      }
+    }
+    </script>
